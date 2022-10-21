@@ -23,8 +23,8 @@ fn main(){
         // u32是uint32
         // 用match来匹配附和条件的
         let guess: u32 = match guess
-            .trim()
-            .parse(){
+            .trim()  // 去除首位空格
+            .parse(){     // 解析出符合类型的值
                 Ok(num) => num,    //OK是成员函数
                 Err(_) => continue // Err是成员函数
             };
