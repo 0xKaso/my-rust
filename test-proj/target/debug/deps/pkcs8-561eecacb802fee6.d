@@ -1,0 +1,12 @@
+/Users/kasoqian/Desktop/rust/test-proj/target/debug/deps/pkcs8-561eecacb802fee6.rmeta: /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/lib.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/error.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/private_key_info.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/traits.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/version.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/../README.md
+
+/Users/kasoqian/Desktop/rust/test-proj/target/debug/deps/libpkcs8-561eecacb802fee6.rlib: /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/lib.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/error.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/private_key_info.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/traits.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/version.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/../README.md
+
+/Users/kasoqian/Desktop/rust/test-proj/target/debug/deps/pkcs8-561eecacb802fee6.d: /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/lib.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/error.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/private_key_info.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/traits.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/version.rs /Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/../README.md
+
+/Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/lib.rs:
+/Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/error.rs:
+/Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/private_key_info.rs:
+/Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/traits.rs:
+/Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/version.rs:
+/Users/kasoqian/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.9.0/src/../README.md:
