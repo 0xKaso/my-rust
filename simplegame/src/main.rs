@@ -1,3 +1,5 @@
+extern crate simplegame;
+
 use std::io;     // 引入标准库中的IO库
 use rand::Rng;   // 引入rand中的Rng库
 use std::cmp::Ordering;  // 引入标准库中的cmp::Ordering库，Ordering n.排序
