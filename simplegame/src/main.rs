@@ -1,10 +1,8 @@
-extern crate simplegame;
+use rand::Rng; // 引入rand中的Rng库
+use std::cmp::Ordering;
+use std::io; // 引入标准库中的IO库 // 引入标准库中的cmp::Ordering库，Ordering n.排序
 
-use std::io;     // 引入标准库中的IO库
-use rand::Rng;   // 引入rand中的Rng库
-use std::cmp::Ordering;  // 引入标准库中的cmp::Ordering库，Ordering n.排序
-
-fn main(){
+fn main() {
     println!("Guess the number!"); // 打印用println!
 
     let secret_number = rand::thread_rng().gen_range(1..=100);
@@ -25,24 +23,29 @@ fn main(){
         // u32是uint32
         // 用match来匹配附和条件的
         let guess: u32 = match guess
-            .trim()  // 去除首位空格
-            .parse(){     // 解析出符合类型的值
-                Ok(num) => num,    //OK是成员函数
-                Err(_) => continue // Err是成员函数
-            };
+            .trim() // 去除首位空格
+            .parse()
+        {
+            // 解析出符合类型的值
+            Ok(num) => num,     //OK是成员函数
+            Err(_) => continue, // Err是成员函数
+        };
 
         println!("You guessed: {guess}");
-        
+
         // cmp compare比较
         match guess.cmp(&secret_number) {
             // Ordering是一个枚举类型，成员是Less、Greater 和 Equal
             Ordering::Less => println!("To small!"),
             Ordering::Greater => println!("To big!"),
-            Ordering::Equal => print_win(),
+            Ordering::Equal => {
+                print_win();
+                break;
+            }
         }
     }
 }
 
-fn print_win(){
+fn print_win() {
     println!("You win!");
 }

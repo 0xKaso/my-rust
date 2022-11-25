@@ -1,1 +1,1 @@
-/Users/kasoqian/Desktop/rust/simplegame/target/debug/simplegame: /Users/kasoqian/Desktop/rust/simplegame/src/main.rs
+/Users/kasoqian/Desktop/my-rust/simplegame/target/debug/simplegame: /Users/kasoqian/Desktop/my-rust/simplegame/src/main.rs
